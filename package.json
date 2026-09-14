@@ -1,9 +1,5 @@
 {
   "name": "ossprey-detection-test",
   "version": "0.0.0",
-  "private": true,
-  "dependencies": {
-    "@cacheable/memory": "2.2.1",
-    "keyv": "6.0.0"
-  }
+  "private": true
 }
